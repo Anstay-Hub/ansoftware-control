@@ -1,0 +1,6 @@
+{
+  "pausa": false,
+  "mensaje": "Ejemplo: copia este archivo como talleres/<codigo de soporte>.json (el codigo sale en el panel del taller) y cambia lo que quieras solo para ese taller.",
+  "ejecutar_ahora": 0,
+  "recargar": 0
+}

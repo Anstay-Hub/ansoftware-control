@@ -1,0 +1,9 @@
+{
+  "version_config": 1,
+  "pausa": false,
+  "mensaje": "",
+  "ejecutar_ahora": 0,
+  "recargar": 0,
+  "latido_url": "",
+  "nota": "Configuracion para TODOS los talleres. Un archivo talleres/<codigo>.json la sobrescribe solo para ese taller. Solo datos, nunca codigo ni secretos."
+}
